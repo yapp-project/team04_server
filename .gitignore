@@ -89,6 +89,5 @@ typings/
 #custom
 .vscode/
 config/private.js
-config/database/jsonDB.js
 
 # End of https://www.gitignore.io/api/node
